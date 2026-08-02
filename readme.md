@@ -2,8 +2,6 @@
 
 Este repositório contém o código-fonte do **meu portfólio pessoal**, desenvolvido com foco em **desenvolvimento front-end**, **design responsivo**, **experiência do usuário** e **boas práticas de organização de código**.
 
-**Link:** https://gracicosta.github.io/portfoliograciellecosta/
-
 O projeto tem como objetivo apresentar de forma clara e profissional informações sobre perfil, experiências, habilidades técnicas e projetos, além de servir como base evolutiva para futuras implementações.
 
 ## 📌 Sobre o Projeto
